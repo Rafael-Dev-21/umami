@@ -4120,10 +4120,10 @@ is-weakref@^1.0.2:
   dependencies:
     call-bind "^1.0.2"
 
-isbot@^3.4.5:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/isbot/-/isbot-3.5.2.tgz#eb33c40c0db53a0dd10d4a24dfb0d67f9978f344"
-  integrity sha512-7iXQPDK1GBKvWS9N71bNnQ2KMcqwlMhdLkPma/EBn+8ZRkCbhun3yqqS1hmRqysTwJLGvJrUTmRIHibLWrXQQA==
+isbot@^3.6.5:
+  version "3.6.5"
+  resolved "https://registry.yarnpkg.com/isbot/-/isbot-3.6.5.tgz#a749980d9dfba9ebcc03ee7b548d1f24dd8c9f1e"
+  integrity sha512-BchONELXt6yMad++BwGpa0oQxo/uD0keL7N15cYVf0A1oMIoNQ79OqeYdPMFWDrNhCqCbRuw9Y9F3QBjvAxZ5g==
 
 isexe@^2.0.0:
   version "2.0.0"
